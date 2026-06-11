@@ -922,6 +922,7 @@ via Amazon SES.
 
 
 # Legal, Account and Invoicing
+* [LLC Class](https://llcclass.com/wyoming) - Wyoming LLC registration for non-US founders, includes registered agent, EIN, operating agreement. Start accepting Stripe & Mercury payments.
 * [Stripe Atlas](https://www.producthunt.com/posts/stripe-atlas-5) [_[PH]_](https://www.producthunt.com/posts/stripe-atlas-5) 💙
 * [LLC Class](https://llcclass.com) - [Wyoming LLC registration](https://llcclass.com/wyoming) + [registered agent](https://llcclass.com/what-is-llc-registered-agent) + EIN for non-US founders. Lower-cost alternative to Stripe Atlas; enables Stripe and Mercury bank.
 * [Freshbooks](https://www.freshbooks.com/) [_[PH]_](https://www.producthunt.com/posts/the-new-freshbooks)
